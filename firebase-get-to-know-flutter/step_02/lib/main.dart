@@ -44,10 +44,10 @@ class HomePage extends StatelessWidget {
           const IconAndDetail(Icons.location_city, 'San Francisco'),
           const Divider(
             height: 8,
-            thickness: 1,
+            thickness: 2,
             indent: 8,
             endIndent: 8,
-            color: Colors.grey,
+            color: Colors.deepPurple,
           ),
           const Header("What we'll be doing"),
           const Paragraph(
